@@ -1,0 +1,5 @@
+f1=open("C:\\Users\\91996\\Desktop\\python basics\\File_Handling\\file_1.txt","a")
+f1.write(" We can only write in append model and the curser will be at the end when we open. We can read and write in a+.")
+f1=open("C:\\Users\\91996\\Desktop\\python basics\\File_Handling\\file_1.txt","a+")
+f1.seek(0)
+print(f1.read())

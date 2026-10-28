@@ -1,0 +1,13 @@
+name=input("Enter your name ")
+age=input("Enter your age ")
+m1=input("Enter the mark of first subject ")
+m2=input("Enter the mark of second subject ")
+m3=input("Enter the mark of third subject ")
+age=int(age)
+m1=float(m1)
+m2=float(m2)
+m3=float(m3)
+avg=(m1+m2+m3)/3
+print(f"Name {name}   {type(name)}")
+print(f"age {age}   {type(age)}")
+print(f"average mark {avg}   {type(avg)}")

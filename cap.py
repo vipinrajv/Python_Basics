@@ -1,0 +1,1 @@
+capitals={"USA":"Washington DC","India":"New Delhi","Japan":"tokiyo","Russia":"moscow"}

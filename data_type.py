@@ -1,0 +1,10 @@
+name="hioj"
+name2="n"
+age=87
+price=123.13
+student=True
+print(type(name2))
+print(type(name))
+print(type(age))
+print(type(price))
+print(type(student))

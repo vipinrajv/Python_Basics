@@ -1,0 +1,19 @@
+gpa=45.6778
+gpaint=int(gpa)
+print(gpa)
+gpa=float(gpa)
+print(gpa)
+print("--------------------------------------------")
+age=23
+print(type(age))
+age=str(age)
+print(type(age))
+print(age)
+age +="1t"
+print(age+"9")
+print("-------------------------------------------")
+name="vipin"
+Name=""
+n=bool(name)
+N=bool(Name)
+print(n,N)
